@@ -1,0 +1,18 @@
+{
+  "name": "SimpleToDo",
+  "version": "1.0.0",
+  "author": "Andreas Bigger",
+  "description": "Simple GraphQL, NodeJS ToDo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-typescript": "^5.0.1",
+    "typescript": "^3.5.1"
+  }
+}
